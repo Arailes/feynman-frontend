@@ -1,4 +1,4 @@
-const API = "https://SEU-BACKEND.onrender.com";
+const API = "https://feynman-api.onrender.com";
 
 async function generate() {
   const text = document.getElementById("input").value;
